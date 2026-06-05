@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Hu
 
-I'm a fourth-year Computer Science and Statistics student at the **University of Toronto**, with a minor in Mathematics.
+I'm a Computer Science and Statistics student at the **University of Toronto**, with a minor in Mathematics.
 
 I’m interested in **software engineering, distributed systems, and data-driven applications**, and enjoy building systems that work with large-scale data.
 

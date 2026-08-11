@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Hu
 
-I'm a Computer Science and Statistics student at the **University of Toronto**, with a minor in Mathematics.
+I'm a graduate of the University of Toronto with a Bachelor of Science in Computer Science, Statistics, and Mathematics.
 
 I’m interested in **software engineering, distributed systems, and data-driven applications**, and enjoy building systems that work with large-scale data.
 
@@ -19,7 +19,7 @@ Previously, I also worked as a **Robotics Software Developer**, building softwar
 
 - **Languages:** Python, Java, JavaScript, C/C++, TypeScript, SQL, R
 - **Backend:** Node.js, PostgreSQL
-- **Cloud:** AWS, CloudWatch
+- **Cloud:** AWS, S3, CloudWatch
 - **Data & Visualization:** D3.js, Tableau
 - **Tools:** Git, Linux
 
